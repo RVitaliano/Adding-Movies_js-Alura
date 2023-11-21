@@ -1,1 +1,3 @@
-# Adding-Movies_js-Alura
+# Adding-Movies_js-Alura  
+
+Task WeekDev Alura
